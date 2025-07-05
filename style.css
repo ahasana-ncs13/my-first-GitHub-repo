@@ -1,12 +1,26 @@
-h1{
-    color: cadetblue;
-}
-p{
-    background-color: darksalmon;
-    border-radius: 20px;
-    border: 5px solid cornflowerblue;
+
+div{
+    border: 5px solid coral;
+    margin: auto;
     padding: 20px;
-    margin: 10px 20px 30px 40px;
-    height: 200px;
-    width: 200px;
+     border-radius: 10px;
+     line-height: normal;
+     background-color:bisque;
+    
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{
+    color: crimson;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+img{
+    max-width: 100%;
+    display: block;
+    margin:auto;
+    border-radius: 10px;
 }
