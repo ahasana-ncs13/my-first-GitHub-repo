@@ -1,26 +1,82 @@
-
-div{
-    border: 5px solid coral;
-    margin: auto;
-    padding: 20px;
+*{
      border-radius: 10px;
-     line-height: normal;
-     background-color:bisque;
-    
 }
 body{
     font-family: 'Courier New', Courier, monospace;
     
 }
 h1{
-    color: crimson;
+    color: rgb(146, 27, 75);
     text-align: center;
     margin-bottom: 10px;
     padding: 10px;
 }
 img{
-    max-width: 100%;
     display: block;
     margin:auto;
     border-radius: 10px;
+     width:400px;
+    height: 300px;
+}
+h2{
+    font-size: medium;
+}
+.Ingredients{
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    background-color: cornsilk;
+    color: rgb(146, 27, 75);
+    border: 3px solid rgb(146, 27, 75);
+    padding: 10px;
+
+}
+.creamy{
+     display: inline-block;
+    height: 300px;
+    width: 300px;
+}
+.Section1{
+    height: 400px;
+    width: 700px;
+    margin-bottom: 20px;
+}
+.Instructions{
+    display: inline-block;
+    height: 320px;
+    width: 300px;
+    background-color: cornsilk;
+    color: rgb(146, 27, 75);
+    border: 3px solid rgb(146, 27, 75);
+    padding:10px;
+    margin-bottom: 7px;
+}
+.s2{
+    height: 200px;
+    width: 300px;
+}
+.Section2{
+    width: 700px;
+    
+}
+.Section3{
+    width: 650px;
+     background-color: cornsilk;
+     border: 3px solid rgb(146, 27, 75);
+     padding: 5px;
+}
+#Recipe{
+    width: 670px;
+    color: rgb(146, 27, 75);
+     border: 5px solid rgb(146, 27, 75);
+    margin: 10px;
+    padding: 10px;
+     border-radius: 10px;
+     background-color:darkseagreen;
+    
+}
+
+#img{
+    width:400px;
+
 }
